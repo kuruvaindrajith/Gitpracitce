@@ -1,3 +1,5 @@
 Hi im indrajith
 I'm learning devops
 devops is combination of dev and ops
+im learning linux
+im learning git also
