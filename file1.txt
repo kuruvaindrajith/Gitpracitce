@@ -1,0 +1,3 @@
+Hi im indrajith
+I'm learning devops
+devops is combination of dev and ops
